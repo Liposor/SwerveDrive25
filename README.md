@@ -1,6 +1,8 @@
 # Swerve Drive no FRC
 
 O **swerve drive** é um dos sistemas de locomoção mais avançados utilizados em robôs de FRC. Ele oferece alta manobrabilidade, permitindo que o robô se mova em qualquer direção independentemente da orientação do chassi.
+Este código foi pensado e Trabalhado com códigos americanos sendo diversas partes em português ou inglês (fiquei com preguiça de traduzir tudo)
+
 
 ## 1 - Funcionamento Mecânico
 
